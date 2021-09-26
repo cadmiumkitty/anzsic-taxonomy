@@ -3,7 +3,18 @@ import rdfpandas
 from rdflib import Graph, Namespace
 from rdflib.namespace import NamespaceManager, SKOS, DCTERMS
 
-df = pd.read_csv('anzsic.csv', index_col = '@id', keep_default_na = True)
+df = pd.read_csv('anzsic.csv', index_col = '@id', keep_default_na = True, dtype = {
+   '@id': str, 
+   'rdf:type': str, 
+   'skos:prefLabel': str, 
+   'skos:notation': str, 
+   'skos:topConceptOf': str,
+   'skos:inScheme': str, 
+   'skos:broader' : str, 
+   'skos:note': str, 
+   'dcterms:source': str,
+   'pav:version': str })
+
 namespace_manager = NamespaceManager(Graph())
 namespace_manager.bind('skos', SKOS, override = True)
 namespace_manager.bind('dcterms', DCTERMS, override = True)

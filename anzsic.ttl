@@ -6,373 +6,373 @@
 anzic:0111 a skos:Concept ;
     skos:broader anzic:011 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "111" ;
+    skos:notation "0111" ;
     skos:prefLabel "Nursery Production (Under Cover)" .
 
 anzic:0112 a skos:Concept ;
     skos:broader anzic:011 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "112" ;
+    skos:notation "0112" ;
     skos:prefLabel "Nursery Production (Outdoors)" .
 
 anzic:0113 a skos:Concept ;
     skos:broader anzic:011 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "113" ;
+    skos:notation "0113" ;
     skos:prefLabel "Turf Growing" .
 
 anzic:0114 a skos:Concept ;
     skos:broader anzic:011 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "114" ;
+    skos:notation "0114" ;
     skos:prefLabel "Floriculture Production (Under Cover)" .
 
 anzic:0115 a skos:Concept ;
     skos:broader anzic:011 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "115" ;
+    skos:notation "0115" ;
     skos:prefLabel "Floriculture Production (Outdoors)" .
 
 anzic:0121 a skos:Concept ;
     skos:broader anzic:012 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "121" ;
+    skos:notation "0121" ;
     skos:prefLabel "Mushroom Growing" .
 
 anzic:0122 a skos:Concept ;
     skos:broader anzic:012 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "122" ;
+    skos:notation "0122" ;
     skos:prefLabel "Vegetable Growing (Under Cover)" .
 
 anzic:0123 a skos:Concept ;
     skos:broader anzic:012 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "123" ;
+    skos:notation "0123" ;
     skos:prefLabel "Vegetable Growing (Outdoors)" .
 
 anzic:0131 a skos:Concept ;
     skos:broader anzic:013 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "131" ;
+    skos:notation "0131" ;
     skos:prefLabel "Grape Growing" .
 
 anzic:0132 a skos:Concept ;
     skos:broader anzic:013 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "132" ;
+    skos:notation "0132" ;
     skos:prefLabel "Kiwifruit Growing" .
 
 anzic:0133 a skos:Concept ;
     skos:broader anzic:013 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "133" ;
+    skos:notation "0133" ;
     skos:prefLabel "Berry Fruit Growing" .
 
 anzic:0134 a skos:Concept ;
     skos:broader anzic:013 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "134" ;
+    skos:notation "0134" ;
     skos:prefLabel "Apple and Pear Growing" .
 
 anzic:0135 a skos:Concept ;
     skos:broader anzic:013 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "135" ;
+    skos:notation "0135" ;
     skos:prefLabel "Stone Fruit Growing" .
 
 anzic:0136 a skos:Concept ;
     skos:broader anzic:013 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "136" ;
+    skos:notation "0136" ;
     skos:prefLabel "Citrus Fruit Growing" .
 
 anzic:0137 a skos:Concept ;
     skos:broader anzic:013 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "137" ;
+    skos:notation "0137" ;
     skos:prefLabel "Olive Growing" .
 
 anzic:0139 a skos:Concept ;
     skos:broader anzic:013 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "139" ;
+    skos:notation "0139" ;
     skos:prefLabel "Other Fruit and Tree Nut Growing" .
 
 anzic:0141 a skos:Concept ;
     skos:broader anzic:014 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "141" ;
+    skos:notation "0141" ;
     skos:prefLabel "Sheep Farming (Specialised)" .
 
 anzic:0142 a skos:Concept ;
     skos:broader anzic:014 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "142" ;
+    skos:notation "0142" ;
     skos:prefLabel "Beef Cattle Farming (Specialised)" .
 
 anzic:0143 a skos:Concept ;
     skos:broader anzic:014 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "143" ;
+    skos:notation "0143" ;
     skos:prefLabel "Beef Cattle Feedlots (Specialised)" .
 
 anzic:0144 a skos:Concept ;
     skos:broader anzic:014 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "144" ;
+    skos:notation "0144" ;
     skos:prefLabel "Sheep-Beef Cattle Farming" .
 
 anzic:0145 a skos:Concept ;
     skos:broader anzic:014 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "145" ;
+    skos:notation "0145" ;
     skos:prefLabel "Grain-Sheep or Grain-Beef Cattle Farming" .
 
 anzic:0146 a skos:Concept ;
     skos:broader anzic:014 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "146" ;
+    skos:notation "0146" ;
     skos:prefLabel "Rice Growing" .
 
 anzic:0149 a skos:Concept ;
     skos:broader anzic:014 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "149" ;
+    skos:notation "0149" ;
     skos:prefLabel "Other Grain Growing" .
 
 anzic:0151 a skos:Concept ;
     skos:broader anzic:015 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "151" ;
+    skos:notation "0151" ;
     skos:prefLabel "Sugar Cane Growing" .
 
 anzic:0152 a skos:Concept ;
     skos:broader anzic:015 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "152" ;
+    skos:notation "0152" ;
     skos:prefLabel "Cotton Growing" .
 
 anzic:0159 a skos:Concept ;
     skos:broader anzic:015 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "159" ;
+    skos:notation "0159" ;
     skos:prefLabel "Other Crop Growing n.e.c." .
 
 anzic:0160 a skos:Concept ;
     skos:broader anzic:016 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "160" ;
+    skos:notation "0160" ;
     skos:prefLabel "Dairy Cattle Farming" .
 
 anzic:0171 a skos:Concept ;
     skos:broader anzic:017 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "171" ;
+    skos:notation "0171" ;
     skos:prefLabel "Poultry Farming (Meat)" .
 
 anzic:0172 a skos:Concept ;
     skos:broader anzic:017 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "172" ;
+    skos:notation "0172" ;
     skos:prefLabel "Poultry Farming (Eggs)" .
 
 anzic:0180 a skos:Concept ;
     skos:broader anzic:018 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "180" ;
+    skos:notation "0180" ;
     skos:prefLabel "Deer Farming" .
 
 anzic:0191 a skos:Concept ;
     skos:broader anzic:019 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "191" ;
+    skos:notation "0191" ;
     skos:prefLabel "Horse Farming" .
 
 anzic:0192 a skos:Concept ;
     skos:broader anzic:019 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "192" ;
+    skos:notation "0192" ;
     skos:prefLabel "Pig Farming" .
 
 anzic:0193 a skos:Concept ;
     skos:broader anzic:019 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "193" ;
+    skos:notation "0193" ;
     skos:prefLabel "Beekeeping" .
 
 anzic:0199 a skos:Concept ;
     skos:broader anzic:019 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "199" ;
+    skos:notation "0199" ;
     skos:prefLabel "Other Livestock Farming n.e.c." .
 
 anzic:0201 a skos:Concept ;
     skos:broader anzic:020 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "201" ;
+    skos:notation "0201" ;
     skos:prefLabel "Offshore Longline and Rack Aquaculture" .
 
 anzic:0202 a skos:Concept ;
     skos:broader anzic:020 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "202" ;
+    skos:notation "0202" ;
     skos:prefLabel "Offshore Caged Aquaculture" .
 
 anzic:0203 a skos:Concept ;
     skos:broader anzic:020 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "203" ;
+    skos:notation "0203" ;
     skos:prefLabel "Onshore Aquaculture" .
 
 anzic:0301 a skos:Concept ;
     skos:broader anzic:030 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "301" ;
+    skos:notation "0301" ;
     skos:prefLabel "Forestry" .
 
 anzic:0302 a skos:Concept ;
     skos:broader anzic:030 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "302" ;
+    skos:notation "0302" ;
     skos:prefLabel "Logging" .
 
 anzic:0411 a skos:Concept ;
     skos:broader anzic:041 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "411" ;
+    skos:notation "0411" ;
     skos:prefLabel "Rock Lobster and Crab Potting" .
 
 anzic:0412 a skos:Concept ;
     skos:broader anzic:041 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "412" ;
+    skos:notation "0412" ;
     skos:prefLabel "Prawn Fishing" .
 
 anzic:0413 a skos:Concept ;
     skos:broader anzic:041 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "413" ;
+    skos:notation "0413" ;
     skos:prefLabel "Line Fishing" .
 
 anzic:0414 a skos:Concept ;
     skos:broader anzic:041 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "414" ;
+    skos:notation "0414" ;
     skos:prefLabel "Fish Trawling, Seining and Netting" .
 
 anzic:0419 a skos:Concept ;
     skos:broader anzic:041 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "419" ;
+    skos:notation "0419" ;
     skos:prefLabel "Other Fishing" .
 
 anzic:0420 a skos:Concept ;
     skos:broader anzic:042 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "420" ;
+    skos:notation "0420" ;
     skos:prefLabel "Hunting and Trapping" .
 
 anzic:0510 a skos:Concept ;
     skos:broader anzic:051 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "510" ;
+    skos:notation "0510" ;
     skos:prefLabel "Forestry Support Services" .
 
 anzic:0521 a skos:Concept ;
     skos:broader anzic:052 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "521" ;
+    skos:notation "0521" ;
     skos:prefLabel "Cotton Ginning" .
 
 anzic:0522 a skos:Concept ;
     skos:broader anzic:052 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "522" ;
+    skos:notation "0522" ;
     skos:prefLabel "Shearing Services" .
 
 anzic:0529 a skos:Concept ;
     skos:broader anzic:052 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "529" ;
+    skos:notation "0529" ;
     skos:prefLabel "Other Agriculture and Fishing Support Services" .
 
 anzic:0600 a skos:Concept ;
     skos:broader anzic:060 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "600" ;
+    skos:notation "0600" ;
     skos:prefLabel "Coal Mining" .
 
 anzic:0700 a skos:Concept ;
     skos:broader anzic:070 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "700" ;
+    skos:notation "0700" ;
     skos:prefLabel "Oil and Gas Extraction" .
 
 anzic:0801 a skos:Concept ;
     skos:broader anzic:080 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "801" ;
+    skos:notation "0801" ;
     skos:prefLabel "Iron Ore Mining" .
 
 anzic:0802 a skos:Concept ;
     skos:broader anzic:080 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "802" ;
+    skos:notation "0802" ;
     skos:prefLabel "Bauxite Mining" .
 
 anzic:0803 a skos:Concept ;
     skos:broader anzic:080 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "803" ;
+    skos:notation "0803" ;
     skos:prefLabel "Copper Ore Mining" .
 
 anzic:0804 a skos:Concept ;
     skos:broader anzic:080 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "804" ;
+    skos:notation "0804" ;
     skos:prefLabel "Gold Ore Mining" .
 
 anzic:0805 a skos:Concept ;
     skos:broader anzic:080 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "805" ;
+    skos:notation "0805" ;
     skos:prefLabel "Mineral Sand Mining" .
 
 anzic:0806 a skos:Concept ;
     skos:broader anzic:080 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "806" ;
+    skos:notation "0806" ;
     skos:prefLabel "Nickel Ore Mining" .
 
 anzic:0807 a skos:Concept ;
     skos:broader anzic:080 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "807" ;
+    skos:notation "0807" ;
     skos:prefLabel "Silver-Lead-Zinc Ore Mining" .
 
 anzic:0809 a skos:Concept ;
     skos:broader anzic:080 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "809" ;
+    skos:notation "0809" ;
     skos:prefLabel "Other Metal Ore Mining" .
 
 anzic:0911 a skos:Concept ;
     skos:broader anzic:091 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "911" ;
+    skos:notation "0911" ;
     skos:prefLabel "Gravel and Sand Quarrying" .
 
 anzic:0919 a skos:Concept ;
     skos:broader anzic:091 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "919" ;
+    skos:notation "0919" ;
     skos:prefLabel "Other Construction Material Mining" .
 
 anzic:0990 a skos:Concept ;
     skos:broader anzic:099 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "990" ;
+    skos:notation "0990" ;
     skos:prefLabel "Other Non-Metallic Mineral Mining and Quarrying" .
 
 anzic:1011 a skos:Concept ;
@@ -3042,73 +3042,73 @@ anzic:9603 a skos:Concept ;
 anzic:016 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "16" ;
+    skos:notation "016" ;
     skos:prefLabel "Dairy Cattle Farming" .
 
 anzic:018 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "18" ;
+    skos:notation "018" ;
     skos:prefLabel "Deer Farming" .
 
 anzic:02 a skos:Concept ;
     skos:broader anzic:A ;
     skos:inScheme anzic:scheme ;
-    skos:notation "2" ;
+    skos:notation "02" ;
     skos:prefLabel "Aquaculture" .
 
 anzic:03 a skos:Concept ;
     skos:broader anzic:A ;
     skos:inScheme anzic:scheme ;
-    skos:notation "3" ;
+    skos:notation "03" ;
     skos:prefLabel "Forestry and Logging" .
 
 anzic:042 a skos:Concept ;
     skos:broader anzic:04 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "42" ;
+    skos:notation "042" ;
     skos:prefLabel "Hunting and Trapping" .
 
 anzic:051 a skos:Concept ;
     skos:broader anzic:05 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "51" ;
+    skos:notation "051" ;
     skos:prefLabel "Forestry Support Services" .
 
 anzic:06 a skos:Concept ;
     skos:broader anzic:B ;
     skos:inScheme anzic:scheme ;
-    skos:notation "6" ;
+    skos:notation "06" ;
     skos:prefLabel "Coal Mining" .
 
 anzic:060 a skos:Concept ;
     skos:broader anzic:06 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "60" ;
+    skos:notation "060" ;
     skos:prefLabel "Coal Mining" .
 
 anzic:07 a skos:Concept ;
     skos:broader anzic:B ;
     skos:inScheme anzic:scheme ;
-    skos:notation "7" ;
+    skos:notation "07" ;
     skos:prefLabel "Oil and Gas Extraction" .
 
 anzic:070 a skos:Concept ;
     skos:broader anzic:07 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "70" ;
+    skos:notation "070" ;
     skos:prefLabel "Oil and Gas Extraction" .
 
 anzic:08 a skos:Concept ;
     skos:broader anzic:B ;
     skos:inScheme anzic:scheme ;
-    skos:notation "8" ;
+    skos:notation "08" ;
     skos:prefLabel "Metal Ore Mining" .
 
 anzic:099 a skos:Concept ;
     skos:broader anzic:09 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "99" ;
+    skos:notation "099" ;
     skos:prefLabel "Other Non-Metallic Mineral Mining and Quarrying" .
 
 anzic:109 a skos:Concept ;
@@ -3690,37 +3690,37 @@ anzic:96 a skos:Concept ;
 anzic:017 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "17" ;
+    skos:notation "017" ;
     skos:prefLabel "Poultry Farming" .
 
 anzic:030 a skos:Concept ;
     skos:broader anzic:03 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "30" ;
+    skos:notation "030" ;
     skos:prefLabel "Forestry and Logging" .
 
 anzic:04 a skos:Concept ;
     skos:broader anzic:A ;
     skos:inScheme anzic:scheme ;
-    skos:notation "4" ;
+    skos:notation "04" ;
     skos:prefLabel "Fishing, Hunting and Trapping" .
 
 anzic:05 a skos:Concept ;
     skos:broader anzic:A ;
     skos:inScheme anzic:scheme ;
-    skos:notation "5" ;
+    skos:notation "05" ;
     skos:prefLabel "Agriculture, Forestry and Fishing Support Services" .
 
 anzic:09 a skos:Concept ;
     skos:broader anzic:B ;
     skos:inScheme anzic:scheme ;
-    skos:notation "9" ;
+    skos:notation "09" ;
     skos:prefLabel "Non-Metallic Mineral Mining and Quarrying" .
 
 anzic:091 a skos:Concept ;
     skos:broader anzic:09 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "91" ;
+    skos:notation "091" ;
     skos:prefLabel "Construction Material Mining" .
 
 anzic:10 a skos:Concept ;
@@ -4242,25 +4242,25 @@ anzic:N a skos:Concept ;
 anzic:012 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "12" ;
+    skos:notation "012" ;
     skos:prefLabel "Mushroom and Vegetable Growing" .
 
 anzic:015 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "15" ;
+    skos:notation "015" ;
     skos:prefLabel "Other Crop Growing" .
 
 anzic:020 a skos:Concept ;
     skos:broader anzic:02 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "20" ;
+    skos:notation "020" ;
     skos:prefLabel "Aquaculture" .
 
 anzic:052 a skos:Concept ;
     skos:broader anzic:05 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "52" ;
+    skos:notation "052" ;
     skos:prefLabel "Agriculture and Fishing Support Services" .
 
 anzic:111 a skos:Concept ;
@@ -4542,7 +4542,7 @@ anzic:S a skos:Concept ;
 anzic:019 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "19" ;
+    skos:notation "019" ;
     skos:prefLabel "Other Livestock Farming" .
 
 anzic:117 a skos:Concept ;
@@ -4704,13 +4704,13 @@ anzic:R a skos:Concept ;
 anzic:011 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "11" ;
+    skos:notation "011" ;
     skos:prefLabel "Nursery and Floriculture Production" .
 
 anzic:041 a skos:Concept ;
     skos:broader anzic:04 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "41" ;
+    skos:notation "041" ;
     skos:prefLabel "Fishing" .
 
 anzic:13 a skos:Concept ;
@@ -4872,7 +4872,7 @@ anzic:F a skos:Concept ;
 anzic:014 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "14" ;
+    skos:notation "014" ;
     skos:prefLabel "Sheep, Beef Cattle and Grain Farming" .
 
 anzic:191 a skos:Concept ;
@@ -4914,13 +4914,13 @@ anzic:J a skos:Concept ;
 anzic:013 a skos:Concept ;
     skos:broader anzic:01 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "13" ;
+    skos:notation "013" ;
     skos:prefLabel "Fruit and Tree Nut Growing" .
 
 anzic:080 a skos:Concept ;
     skos:broader anzic:08 ;
     skos:inScheme anzic:scheme ;
-    skos:notation "80" ;
+    skos:notation "080" ;
     skos:prefLabel "Metal Ore Mining" .
 
 anzic:69 a skos:Concept ;
@@ -4938,7 +4938,7 @@ anzic:I a skos:Concept ;
 anzic:01 a skos:Concept ;
     skos:broader anzic:A ;
     skos:inScheme anzic:scheme ;
-    skos:notation "1" ;
+    skos:notation "01" ;
     skos:prefLabel "Agriculture" .
 
 anzic:11 a skos:Concept ;
