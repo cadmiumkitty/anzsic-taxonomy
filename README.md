@@ -2,9 +2,9 @@
 
 SKOS version of [Australian and New Zealand Standard Industrial Classification (ANZSIC)](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1292.02006%20(Revision%202.0)?OpenDocument).
 
-Use it with [Confluence Semantics](https://dalstonsemantics.com/confluence-semantics) to annotate Confluence pages and track alignment with ANZSIC.
+Use it with [Taxonomies for Confluence](https://dalstonsemantics.com/services/taxonomies-for-confluence/) to index Confluence pages and track alignment with ANZSIC.
 
-![ANZSIC in Confluence Semantics](anzsic-confluence.png "ANZSIC in Confluence Semantics")
+![ANZSIC in Taxonomies for Confluence](anzsic-confluence.png "ANZSIC in Taxonomies for Confluence")
 
 Developed with [Simple Knowledge Organization System (SKOS)](https://www.w3.org/2004/02/skos/) this taxonomy can also be imported and published with [controlled vocabulary tools](https://github.com/gbv/bartoc.org/wiki/Software-for-controlled-vocabularies) to improve staff awareness of data risks.
 
