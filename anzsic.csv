@@ -1,5 +1,5 @@
 @id,rdf:type,skos:prefLabel,skos:notation,skos:broader,skos:topConceptOf,skos:inScheme,skos:note,dcterms:source,pav:version
-anzic:scheme,skos:ConceptScheme,Australian and New Zealand Standard Industrial Classification (ANZSIC),,,,,Australian and New Zealand Standard Industrial Classification (ANZSIC) 2006 (Revision 2.0) is used as a source of this taxonomy.,https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1292.02006%20(Revision%202.0)?OpenDocument,0.0.1
+anzic:scheme,skos:ConceptScheme,"1292.0 - Australian and New Zealand Standard Industrial Classification (ANZSIC), 2006 (Revision 2.0)",,,,,Source: Australian Bureau of Statistics.,https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1292.02006%20(Revision%202.0)?OpenDocument,0.0.1
 anzic:A,skos:Concept,"Agriculture, Forestry and Fishing",A,,anzic:scheme,anzic:scheme,,,
 anzic:B,skos:Concept,Mining,B,,anzic:scheme,anzic:scheme,,,
 anzic:C,skos:Concept,Manufacturing,C,,anzic:scheme,anzic:scheme,,,

@@ -18,9 +18,23 @@ df = pd.read_csv('anzsic.csv', index_col = '@id', keep_default_na = True, dtype 
 namespace_manager = NamespaceManager(Graph())
 namespace_manager.bind('skos', SKOS, override = True)
 namespace_manager.bind('dcterms', DCTERMS, override = True)
-namespace_manager.bind('anzic', Namespace('https://www.abs.gov.au/ausstats/anzsic/'), override = True)
+namespace_manager.bind('anzic', Namespace('https://dalstonsemantics.com/ns/au/gov/abs/anzsic/'), override = True)
 namespace_manager.bind('pav', Namespace('http://purl.org/pav/'), override = True)
+
 g = rdfpandas.to_graph(df, namespace_manager)
+
+# Turtle version of ANZSIC
 ttl = g.serialize(format = 'turtle')
-with open('anzsic.ttl', 'wb') as file:
+with open('anzsic.ttl', 'w') as file:
    file.write(ttl)
+
+# JSON-LD version of ANZSIC
+context = {'source': {'@id': 'http://purl.org/dc/terms/source', '@type': '@id'},
+           'broader': {'@id': 'http://www.w3.org/2004/02/skos/core#broader', '@type': '@id'},
+           'inScheme': {'@id': 'http://www.w3.org/2004/02/skos/core#inScheme', '@type': '@id'},
+           'topConceptOf': {'@id': 'http://www.w3.org/2004/02/skos/core#topConceptOf', '@type': '@id'},
+           'version': {'@id': 'http://purl.org/pav/version'},
+           '@vocab': 'http://www.w3.org/2004/02/skos/core#'}
+jsonld = g.serialize(format = 'json-ld', context = context, indent = 2)
+with open('anzsic.jsonld', 'w') as file:
+   file.write(jsonld)

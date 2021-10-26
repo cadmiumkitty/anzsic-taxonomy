@@ -1,4 +1,4 @@
-@prefix anzic: <https://www.abs.gov.au/ausstats/anzsic/> .
+@prefix anzic: <https://dalstonsemantics.com/ns/au/gov/abs/anzsic/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix pav: <http://purl.org/pav/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
@@ -4956,6 +4956,6 @@ anzic:C a skos:Concept ;
 anzic:scheme a skos:ConceptScheme ;
     dcterms:source <https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1292.02006%20(Revision%202.0)?OpenDocument> ;
     pav:version "0.0.1" ;
-    skos:note "Australian and New Zealand Standard Industrial Classification (ANZSIC) 2006 (Revision 2.0) is used as a source of this taxonomy." ;
-    skos:prefLabel "Australian and New Zealand Standard Industrial Classification (ANZSIC)" .
+    skos:note "Source: Australian Bureau of Statistics." ;
+    skos:prefLabel "1292.0 - Australian and New Zealand Standard Industrial Classification (ANZSIC), 2006 (Revision 2.0)" .
 

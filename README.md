@@ -1,25 +1,17 @@
-# Australian and New Zealand Standard Industrial Classification (ANZSIC) 2006 (Revision 2.0)
+# Australian and New Zealand Standard Industrial Classification (ANZSIC)
 
-SKOS version of [Australian and New Zealand Standard Industrial Classification (ANZSIC)](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1292.02006%20(Revision%202.0)?OpenDocument).
+SKOS version of [1292.0 - Australian and New Zealand Standard Industrial Classification (ANZSIC), 2006 (Revision 2.0) Released at 11:30 AM (CANBERRA TIME) 26/06/2013](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1292.02006%20(Revision%202.0)?OpenDocument).
 
-Use it with [Taxonomies for Confluence](https://dalstonsemantics.com/services/taxonomies-for-confluence/) to index Confluence pages and track alignment with ANZSIC.
+Titles are retrieved from [1292.0.55.002 - Australian and New Zealand Standard Industrial Classification (ANZSIC), 2006 - Codes and Titles, 2006 Released at 11:30 AM (CANBERRA TIME) 28/02/2006](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1292.0.55.0022006?OpenDocument) and validated against both ANZSIC revisions.
+
+Use it as reference data, including with [Taxonomies for Confluence](https://dalstonsemantics.com/services/taxonomies-for-confluence/) to index documentation stored in [Confluence](https://www.atlassian.com/software/confluence).
 
 ![ANZSIC in Taxonomies for Confluence](anzsic-confluence.png "ANZSIC in Taxonomies for Confluence")
 
-Developed with [Simple Knowledge Organization System (SKOS)](https://www.w3.org/2004/02/skos/) this taxonomy can also be imported and published with [controlled vocabulary tools](https://github.com/gbv/bartoc.org/wiki/Software-for-controlled-vocabularies) to improve staff awareness of data risks.
+Developed with [Simple Knowledge Organization System (SKOS)](https://www.w3.org/2004/02/skos/) this taxonomy can also be imported and published with [many controlled vocabulary tools](https://github.com/gbv/bartoc.org/wiki/Software-for-controlled-vocabularies).
 
 ![ANZSIC in VocBench](anzsic-vocbench.png "ANZSIC in VocBench")
 
-## Attribution and Disclaimer
+## Attribution
 
-### Sources
-
-[Australian Bureau of Statistics](https://www.abs.gov.au/) is the source of all labels and definitions in the taxonomy.
-
-### Copyright in the original material
-
-(C) Commonwealth of Australia 2013 
-
-This work is copyright. Apart from any use as permitted under the Copyright Act 1968, no part may be reproduced by any process without prior written permission from the Commonwealth. Requests and inquiries concerning reproduction and rights in this publication should be addressed to The Manager, Intermediary Management, Australian Bureau of Statistics, Locked Bag 10, Belconnen ACT 2616, by telephone (02) 6252 6998, fax (02) 6252 7102, or email: <intermediary.management@abs.gov.au>. 
-
-In all cases the ABS must be acknowledged as the source when reproducing or quoting any part of an ABS publication or other product. 
+Source: [Australian Bureau of Statistics](www.abs.gov.au).
